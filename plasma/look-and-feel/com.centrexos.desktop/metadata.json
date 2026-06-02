@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [{ "Email": "dev@centrexos.org", "Name": "CentrexOS Team" }],
+        "Description": "CentrexOS default Plasma look and feel",
+        "Id": "com.centrexos.desktop",
+        "License": "MIT",
+        "Name": "CentrexOS Desktop",
+        "Version": "0.1.0",
+        "Website": "https://centrexos.org"
+    },
+    "X-Plasma-API": "5.0"
+}

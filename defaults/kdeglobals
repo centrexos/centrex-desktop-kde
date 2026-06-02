@@ -1,0 +1,33 @@
+[General]
+BrowserApplication=firefox.desktop
+ColorScheme=CentrexDark
+Name=CentrexOS KDE
+XftAntialias=1
+XftHintStyle=hintmedium
+XftSubPixel=rgb
+fixed=Hack,10,-1,5,50,0,0,0,0,0
+font=Noto Sans,10,-1,5,50,0,0,0,0,0
+menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0
+smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0
+toolBarFont=Noto Sans,9,-1,5,50,0,0,0,0,0
+widgetStyle=Breeze
+
+[Icons]
+Theme=Papirus-Dark
+
+[KDE]
+AnimationDurationFactor=0.75
+ColorScheme=CentrexDark
+LookAndFeelPackage=com.centrexos.desktop
+ShowDeleteCommand=false
+SingleClick=false
+widgetStyle=Breeze
+
+[WM]
+activeBackground=26,27,38
+activeBlend=26,27,38
+activeFont=Noto Sans,10,-1,5,700,0,0,0,0,0
+activeForeground=192,202,245
+inactiveBackground=24,24,37
+inactiveBlend=24,24,37
+inactiveForeground=88,91,112
